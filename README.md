@@ -16,4 +16,4 @@ all of your codes on that particular page.So to reduce effort Change the number 
 FAQs
 
 1.Chrome doesn't automatically download Python Codes.What to do?
-A.You can disable the enable malware protection option in Chrome while downloading and enable it back. But I won't recommend it.
+A 1.You can disable the enable malware protection option in Chrome while downloading and enable it back. But I won't recommend it.
