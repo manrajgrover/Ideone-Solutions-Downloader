@@ -7,11 +7,9 @@ Code downloader for IDEONE
 Because Ideone APIs don't allow us to download all the codes at once.
 
 ##How to use?
-1. Copy the code from ConsoleCode.js and paste it in Browser Console.You may open it by pressing CTRL+Shift+J.Press Enter.
-1. Type output and press Enter.It will list down all the IDs of your Codes in Ideone on that particular page.Ideone doesn't show
-all of your codes on that particular page.So to reduce effort Change the number of results per page to 100 on Top Right Corner.
-1. Copy the ID list and populate the id_list with it.
-1. Now run the script.It will automatically download all the codes for you.
+1. Ideone doesn't show all of your codes on that particular page.So to reduce effort Change the number of results per page to 100 in the Top Right Corner.
+1. Copy the code from ConsoleCode.js and paste it in your Browser's Console. You can open it by pressing CTRL+Shift+J. Press Enter.
+1. After running the script and closing the newly opened browser windows you might have to go to your downloads area in your browser and press allow to download if it is a python file.
 
 ##FAQs
 
