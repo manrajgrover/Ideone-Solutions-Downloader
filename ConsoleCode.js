@@ -15,7 +15,7 @@ for (var i = 0; i < input.length; i++){
     output.push(input[i].getAttribute('href').slice(1,len));
 }
 
-for(id = 0; id < output.length; id++){
-	open("http://ideone.com/plain/" + output[id]);
+for(var id = 0; id < output.length; id++){
+	window.open("http://ideone.com/plain/" + output[id]);
 	sleep(5);
 }
