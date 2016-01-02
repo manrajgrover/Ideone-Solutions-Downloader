@@ -1,7 +1,7 @@
 Ideone-Solutions-Downloader
 ===========================
 
-Code downloader for IDEONE
+Judged in top 10 best under 20 lines JavaScript code hack on Challengepost(Now DevPost), its a code downloader to be used to download personal submissions on Ideone for backup purpose.
 
 ##Why this?
 Because Ideone APIs don't allow us to download all the codes at once.
